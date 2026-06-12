@@ -1,0 +1,8 @@
+name: fortnight-project
+version: 0.1.0
+author: morallilyan
+homepage: https://github.com/morallilyan/fortnight-projecet
+license: MIT
+description: An Agda project exploring formal verification and type theory
+depend: standard-library
+include: .
